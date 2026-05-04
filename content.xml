@@ -1,0 +1,1203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260504194125CBN194</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260504194125BBNKL2</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Los &quot;influencers&quot; saludables</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>Situación de aprendizaje</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Pablo Rodríguez Serrano</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Producto final del curso de Competencia Digital Docente (nivel B2)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1777914118015</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-morg5t7s-bfp96x1at</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Presentación y descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Presentación y descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morg5t7s-bfp96x1at</odePageId>
+      <odeBlockId>20260504073619YHZSDM</odeBlockId>
+      <blockName>Presentación y descripción del proyecto</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morg5t7s-bfp96x1at</odePageId>
+          <odeBlockId>20260504073619YHZSDM</odeBlockId>
+          <odeIdeviceId>202605031920134560TI</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola a todos!</p>
+<p>Os doy la bienvenida al eXeLearning basado en la situación de aprendizaje "Los influencers saludables" para nuestra clase de 6º de Primaria en Educación Física.</p>
+<p>A continuación, se facilita el enlace para poder acceder a la presentación y descripción de este proyecto tan interesante:</p>
+<p><a href="https://docs.google.com/document/d/1tkhEhvkSZSU3ALM85dA2nHcJVMRbiNho4dGWZx1h86Y/edit?usp=sharing" title="">Enlace al documento (Pinche aquí)</a></p>
+<p>¡Espero que les guste!</p>
+<figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/202605031920134560TI/ultraworldjy-ai-generated-9096294.jpg" title="Hábitos saludables" width="1280" height="1280" alt="" />
+<figcaption class="figcaption"><span class="author">Foto de Jocelyn Wong en Pixabay</span>. <span class="title"><em>Imagen de Jocelyn Wong en Pixabay</em></span><span class="sep"> (</span><span class="custom-license">Dominio público</span><span class="sep">)</span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202605031920134560TI","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola a todos!</p>\n<p>Os doy la bienvenida al eXeLearning basado en la situación de aprendizaje \"Los influencers saludables\" para nuestra clase de 6º de Primaria en Educación Física.</p>\n<p>A continuación, se facilita el enlace para poder acceder a la presentación y descripción de este proyecto tan interesante:</p>\n<p><a href=\"https://docs.google.com/document/d/1tkhEhvkSZSU3ALM85dA2nHcJVMRbiNho4dGWZx1h86Y/edit?usp=sharing\" title=\"\">Enlace al documento (Pinche aquí)</a></p>\n<p>¡Espero que les guste!</p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/202605031920134560TI/ultraworldjy-ai-generated-9096294.jpg\" title=\"Hábitos saludables\" width=\"1280\" height=\"1280\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Foto de Jocelyn Wong en Pixabay</span>. <span class=\"title\"><em>Imagen de Jocelyn Wong en Pixabay</em></span><span class=\"sep\"> (</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morg5t7w-pgeffxf9y</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Protegemos nuestros datos y los derechos digitales</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protegemos nuestros datos y los derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Protegemos nuestros datos y los derechos digitales</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morg5t7w-pgeffxf9y</odePageId>
+      <odeBlockId>block-1777903442934-n33rbl7s4</odeBlockId>
+      <blockName>¿Cómo podemos proteger nuestros datos y garantizar los derechos digitales?</blockName>
+      <iconName>history</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morg5t7w-pgeffxf9y</odePageId>
+          <odeBlockId>block-1777903442934-n33rbl7s4</odeBlockId>
+          <odeIdeviceId>idevice-1777903442932-iu4ljop9q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Un asunto importante que debemos conocer es la protección de nuestros derechos y garantizar los derechos digitales de cualquier imagen, trabajo o publicación existente en el mundo virtual que conocemos.</p>
+<p>A continuación, puedes observar una infografía con la información más relevante acerca de todo lo anterior.</p>
+<p>¡Espero que le parezca interesante!</p>
+<p><br /></p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHHmICPj_c/2q89VDU6Vk1p9ZZ5G6jgpA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHHmICPj_c/2q89VDU6Vk1p9ZZ5G6jgpA/view?utm_content=DAHHmICPj_c&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Tarea 2.3. Licencias y seguridad_Pablo Rodríguez Serrano</a> de Pablo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777903442932-iu4ljop9q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Un asunto importante que debemos conocer es la protección de nuestros derechos y garantizar los derechos digitales de cualquier imagen, trabajo o publicación existente en el mundo virtual que conocemos.</p>\n<p>A continuación, puedes observar una infografía con la información más relevante acerca de todo lo anterior.</p>\n<p>¡Espero que le parezca interesante!</p>\n<p><br /></p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHHmICPj_c/2q89VDU6Vk1p9ZZ5G6jgpA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHHmICPj_c/2q89VDU6Vk1p9ZZ5G6jgpA/view?utm_content=DAHHmICPj_c&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Tarea 2.3. Licencias y seguridad_Pablo Rodríguez Serrano</a> de Pablo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morg5t7y-sak359ein</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nuestro producto final</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestro producto final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morg5t7y-sak359ein</odePageId>
+      <odeBlockId>block-1777903960950-x8q8qitbh</odeBlockId>
+      <blockName>¿Cuál será nuestro producto final?</blockName>
+      <iconName>objetives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morg5t7y-sak359ein</odePageId>
+          <odeBlockId>block-1777903960950-x8q8qitbh</odeBlockId>
+          <odeIdeviceId>idevice-1777903960949-rlsgmz9ua</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block"><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Buenos días a todos.&nbsp;</p>
+<p><strong>El producto final que voy a proponer es la grabación de videotutoriales saludables acerca de hábitos alimenticios, posturales, de actividad física y primeros auxilios</strong>, en la materia de Educación Física para el alumnado de 6º de Primaria.</p>
+<p>Por ello, la herramienta que van a emplear va a ser <strong>Canva</strong>. Esta plataforma, más allá de elaborar presentaciones, infografías o carteles entre otros, también permite editar vídeos de una forma sencilla y autónoma.</p>
+<p>¿Por qué elijo esta web? Principalmente porque vosotros (estudiantes de 6º curso) ya estáis habituados a utilizar Canva para otros trabajos, además posee plantillas para insertar las grabaciones fácilmente, no tienen que crearse ninguna cuenta (tienen que emplear la facilitada por la Junta de Andalucía de "@g.educaand.es").</p>
+<p>Por ello, ajustándome a vuestra habilidad digital y a vuestra edad considero que Canva es la herramienta óptima para editar vuestros propios vídeos (grabados previamente con las tablets que dispone el centro educativo) y poder emplear numerosas plantillas e incluso insertar pistas con música de fondo si lo desean de una forma muy sencilla y fácil (Canva también integra "tips" durante la elaboración de los vídeos para ayudarte a conocer sus prestaciones al instante).</p>
+<p>Por último, en base al contexto y a la disponibilidad, desde nuestro centro educativo contamos con tablets para grabar estos videotutoriales y poder subir directamente el archivo a su cuenta educativa de Canva con la aplicación descargada en la misma. Una vez que suban sus vídeos, podréis editarlos con los portátiles del colegio y crear los vídeos de forma autónoma.&nbsp;</p>
+<p>Espero que les haya gustado mi propuesta como medida para poder integrar las TIC y la salud en un solo proyecto, tratando de ver las herramientas digitales como un aliado para fomentar hábitos beneficiosos para nuestro cuerpo, así como una alternativa al sedentarismo ocasionado por las mismas.</p>
+<p>Un saludo,&nbsp;</p>
+<p>Pablo.</p>
+
+<figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/oslometx-headphones-4223911.jpg" title="Videotutoriales" width="1280" height="1264" alt="">
+<figcaption class="figcaption"><span class="author">Foto de OsloMetx en Pixabay</span>. <span class="title"><em>Imagen de OsloMetX en Pixabay</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure></div><article class="exe-udlContent-content-simplified js-hidden"><header class='exe-udlContent-alt-content-title'><h2>Lectura facilitada</h2></header><p>¡Hola a todos y todas! Prepárense, porque en la clase de Educación Física vamos a pasar de la teoría a la acción. No solo vamos a aprender a cuidarnos, ¡vamos a enseñar al mundo cómo hacerlo!</p>
+<p><strong>El Desafío: Vuestros propios videotutoriales</strong><br>Vamos a crear una serie de videotutoriales saludables. Ustedes serán los directores y protagonistas, dándole consejos a otros jóvenes sobre:</p>
+<p style="text-align: left;"><em>Alimentación</em>: ¿Qué comer para tener energía?<br><em>Postura</em>: Cómo cuidar tu espalda frente a la pantalla.<br><em>Actividad física</em>: ¡Movimiento es vida!<br><em>Primeros auxilios</em>: Saber reaccionar ante un susto.<br> <br>¿Por qué vamos a usar Canva?<br>Sabemos que ya son expertos usando Canva, así que vamos a aprovechar ese "superpoder" que tienen. Elegimos esta herramienta porque:</p>
+<p><strong>Ya la conocéis</strong>: no perdemos tiempo aprendiendo programas difíciles; vamos directo a crear.<br><strong>Facilidad total</strong>: usaréis vuestra cuenta de la Junta (@g.educaand.es), ¡sin registros nuevos!<br><strong>Resultados Pro</strong>: podréis usar plantillas increíbles, música de fondo y efectos geniales para que vuestro vídeo parezca de un profesional.<br><strong>Ayuda al instante</strong>: si te atascas, la propia web te da "tips" para resolverlo.<br> <br>¿Cómo lo haremos? (¡Tenemos todo el equipo!)<br>No te preocupes por la tecnología, el cole pone las herramientas para que tú pongas la creatividad:</p>
+<p>Grabación: usaremos las tablets del centro para grabar vuestros clips de acción.<br>Edición: en los portátiles del cole, subiréis vuestros vídeos a Canva y les daréis vuestro toque personal.<br>Adiós al sedentarismo: vamos a demostrar que la tecnología no solo sirve para estar sentados; ¡la usaremos para movernos y mejorar nuestra salud!<br> <br>"Tu talento digital es el mejor aliado para cuidar tu cuerpo. ¡Estoy deseando ver vuestras creaciones!"</p>
+<p>Un saludo, Pablo.</p><button class="exe-udlContent-alt-content-hide">Cerrar</button></article></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morg5t80-s51p30yuo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Curación de contenidos</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Curación de contenidos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morg5t80-s51p30yuo</odePageId>
+      <odeBlockId>block-1777904766213-xrtxmw2z4</odeBlockId>
+      <blockName>Curación de contenidos (tarea 5.1.)</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morg5t80-s51p30yuo</odePageId>
+          <odeBlockId>block-1777904766213-xrtxmw2z4</odeBlockId>
+          <odeIdeviceId>idevice-1777904766210-gh8ooojfx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="text-decoration: underline;"><strong>¿Eres capaz de investigar, filtrar, seleccionar y organizar la mejor información para conseguir nuestro producto final?</strong></span></p>
+<p>Por un lado, accede a cada una de las dos subpáginas dentro de esta pestaña para poder visualizar tanto el Padlet que, como alumnos debéis emplear para poder conseguir nuestro reto final.</p>
+<p>Y, por otro lado, también encontramos un enlace a un Symbaloo donde se encuentran todas aquellas herramientas, recursos, tutoriales y aplicaciones necesarias para que el docente pueda desempeñar sus funciones adecuadamente.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777904766210-gh8ooojfx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"text-decoration: underline;\"><strong>¿Eres capaz de investigar, filtrar, seleccionar y organizar la mejor información para conseguir nuestro producto final?</strong></span></p>\n<p>Por un lado, accede a cada una de las dos subpáginas dentro de esta pestaña para poder visualizar tanto el Padlet que, como alumnos debéis emplear para poder conseguir nuestro reto final.</p>\n<p>Y, por otro lado, también encontramos un enlace a un Symbaloo donde se encuentran todas aquellas herramientas, recursos, tutoriales y aplicaciones necesarias para que el docente pueda desempeñar sus funciones adecuadamente.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morg5t83-ytccu9j3x</odePageId>
+  <odeParentPageId>page-morg5t80-s51p30yuo</odeParentPageId>
+  <pageName>Para el alumnado</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para el alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morg5t83-ytccu9j3x</odePageId>
+      <odeBlockId>block-1777905042305-jgvase1e9</odeBlockId>
+      <blockName>Padlet para el alumnado</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morg5t83-ytccu9j3x</odePageId>
+          <odeBlockId>block-1777905042305-jgvase1e9</odeBlockId>
+          <odeIdeviceId>idevice-1777905042303-kdy6iat91</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/w9run6ax7vqe8d69" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write"></iframe></p>
+<div style="display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;"><a href="https://padlet.com?ref=embed" style="display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;" target="_blank" rel="noopener"><span aria-hidden="" style="color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;">Made with</span><img src="https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png" height="12" style="padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;" alt="Made with Padlet" /></a></div>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777905042303-kdy6iat91","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/w9run6ax7vqe8d69\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\"></iframe></p>\n<div style=\"display: flex; align-items: center; justify-content: end; margin: 0; padding: 8px 8px 8px 0;\"><a href=\"https://padlet.com?ref=embed\" style=\"display: flex; align-items: center; gap: 5px; flex-grow: 0; margin: 0; border: none; padding: 0; text-decoration: none;\" target=\"_blank\" rel=\"noopener\"><span aria-hidden=\"\" style=\"color: #9e9e9e; font-size: 10px; font-family: -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen,Ubuntu,Cantarell,sans-serif; line-height: 1;\">Made with</span><img src=\"https://padlet.net/emails/padlet_email_logo_2026_text-dark-200.png\" height=\"12\" style=\"padding: 0; margin: 0; background: 0 0; border: none; box-shadow: none; display: block;\" alt=\"Made with Padlet\" /></a></div>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morg5t84-8tt2xq5rj</odePageId>
+  <odeParentPageId>page-morg5t80-s51p30yuo</odeParentPageId>
+  <pageName>Para el docente</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para el docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Para el docente</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morg5t84-8tt2xq5rj</odePageId>
+      <odeBlockId>block-1777905344520-xlflu2amm</odeBlockId>
+      <blockName>Symbaloo para el docente</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morg5t84-8tt2xq5rj</odePageId>
+          <odeBlockId>block-1777905344520-xlflu2amm</odeBlockId>
+          <odeIdeviceId>idevice-1777905344519-lsxxlqc7j</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A través del siguiente enlace, accede al Symbaloo con todas las herramientas y recursos necesarios para el docente:</p>
+<p><a href="https://www.symbaloo.com/shared/AAAAA9AUuecAA41_W3N0ug==">https://www.symbaloo.com/shared/AAAAA9AUuecAA41_W3N0ug==</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777905344519-lsxxlqc7j","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A través del siguiente enlace, accede al Symbaloo con todas las herramientas y recursos necesarios para el docente:</p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAA9AUuecAA41_W3N0ug==\">https://www.symbaloo.com/shared/AAAAA9AUuecAA41_W3N0ug==</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morg5t84-rie0zf71k</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Línea temporal</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Línea temporal</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morg5t84-rie0zf71k</odePageId>
+      <odeBlockId>block-1777905609244-2210aa0vw</odeBlockId>
+      <blockName>Línea temporal de nuestro trabajo</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morg5t84-rie0zf71k</odePageId>
+          <odeBlockId>block-1777905609244-2210aa0vw</odeBlockId>
+          <odeIdeviceId>idevice-1777905609244-f1c7w14yf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Cómo vamos a trabajar en nuestras sesiones? </p>
+<p>En esta línea temporal podrás visualizar la organización de las diferentes tareas en las sesiones, donde se describen las herramientas, agrupamientos y los espacios que vamos a utilizar.</p>
+<p>¡Comencemos con energía este reto!</p>
+<p><br /></p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIaHcG2TM/7Il5ibM5I7RN_EAUG1xMVQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHIaHcG2TM/7Il5ibM5I7RN_EAUG1xMVQ/view?utm_content=DAHIaHcG2TM&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">Tarea 7.1. Línea temporal para la organización_Pablo Rodríguez Serrano</a> de Pablo</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777905609244-f1c7w14yf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Cómo vamos a trabajar en nuestras sesiones? </p>\n<p>En esta línea temporal podrás visualizar la organización de las diferentes tareas en las sesiones, donde se describen las herramientas, agrupamientos y los espacios que vamos a utilizar.</p>\n<p>¡Comencemos con energía este reto!</p>\n<p><br /></p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIaHcG2TM/7Il5ibM5I7RN_EAUG1xMVQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIaHcG2TM/7Il5ibM5I7RN_EAUG1xMVQ/view?utm_content=DAHIaHcG2TM&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">Tarea 7.1. Línea temporal para la organización_Pablo Rodríguez Serrano</a> de Pablo</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morg5t85-6mxdt17rj</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Asociamos las tareas a criterios</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Asociamos las tareas a criterios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Asociamos las tareas a criterios</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morg5t85-6mxdt17rj</odePageId>
+      <odeBlockId>block-1777905936392-t47g4mr85</odeBlockId>
+      <blockName>Los criterios de evaluación</blockName>
+      <iconName>info</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morg5t85-6mxdt17rj</odePageId>
+          <odeBlockId>block-1777905936392-t47g4mr85</odeBlockId>
+          <odeIdeviceId>idevice-1777905936391-25323p0w1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Sabes qué criterios de evaluación están asociados a nuestras tareas en la situación de aprendizaje?</p>
+<p>A continuación, se facilita el enlace para que puedas visualizar el documento que contiene dicha conexión entre las actividades y los criterios. Del mismo modo, se detalla la organización, el tiempo y las herramientas TIC que se emplearán:</p>
+<p><a href="https://docs.google.com/document/d/14PYPSiCxB09PzcWijdgfeffR7KtPFO5uPl_yUz6XnXU/edit?usp=sharing" title="">Picha aquí para acceder al documento</a></p>
+<figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/manfredsteger-pixel-3699342.svg" width="1280" height="905" alt="" />
+<figcaption class="figcaption"><span class="author">Foto de Manfred Steger</span>. <span class="title"><em>Imagen de Manfred Steger en Pixabay</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777905936391-25323p0w1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Sabes qué criterios de evaluación están asociados a nuestras tareas en la situación de aprendizaje?</p>\n<p>A continuación, se facilita el enlace para que puedas visualizar el documento que contiene dicha conexión entre las actividades y los criterios. Del mismo modo, se detalla la organización, el tiempo y las herramientas TIC que se emplearán:</p>\n<p><a href=\"https://docs.google.com/document/d/14PYPSiCxB09PzcWijdgfeffR7KtPFO5uPl_yUz6XnXU/edit?usp=sharing\" title=\"\">Picha aquí para acceder al documento</a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/manfredsteger-pixel-3699342.svg\" width=\"1280\" height=\"905\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Foto de Manfred Steger</span>. <span class=\"title\"><em>Imagen de Manfred Steger en Pixabay</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morg5t86-xeb8r2rco</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Los instrumentos de evaluación</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Los instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Los instrumentos de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morg5t86-xeb8r2rco</odePageId>
+      <odeBlockId>block-1777906393515-5adqwypoa</odeBlockId>
+      <blockName>Conocemos los instrumentos de evaluación</blockName>
+      <iconName>arts</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morg5t86-xeb8r2rco</odePageId>
+          <odeBlockId>block-1777906393515-5adqwypoa</odeBlockId>
+          <odeIdeviceId>idevice-1777906393514-idmqqrjmt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola de nuevo!</p>
+<p>Uno de los aspectos más importantes para conseguir el mejor resultado posible es conocer los instrumentos de evaluación con los que vamos a ser calificados.</p>
+<p>Para ello, en este primer enlace podéis encontrar la <span style="text-decoration: underline;"><strong>rúbrica de evaluación acerca de los videotutoriales saludables</strong></span> con todos los apartados que se van a tener en cuenta (columna de la izquierda) y sus respectivos niveles de logro. ¡Trata de conseguir la máxima puntuación posible!</p>
+<p><a href="https://docs.google.com/document/d/1ZRZmaW1_447bdWgQJTcQg6eF-lwcnWnShzow2SCGe8c/edit?usp=sharing" title="">Accede aquí a la rúbrica sobre nuestros videotutoriales</a></p>
+<p>Por último, en este segundo enlace vais a encontrar la<span style="text-decoration: underline;"><strong> lista de cotejo para completar con éxito nuestra gymkhana alimenticia</strong></span> utilizando los códigos QR y las tablets (mejorando nuestra competencia digital).</p>
+<p>¿Conseguirás todos los "check" posibles? Ánimo y a trabajar como sabemos.</p>
+<p><a href="https://docs.google.com/document/d/1vNTWQxYZegy3cNrUbumF8FoVSUKUMEr27bsP9CDpJ98/edit?usp=sharing" title="">Accede a nuestra lista de cotejo pinchando aquí</a></p>
+<figure class="exe-figure position-center" style="width: 1280px;"><img src="{{context_path}}/content/resources/guggenberger_el-hook-1425312.svg" width="1280" height="1224" alt="" />
+<figcaption class="figcaption"><span class="author">Foto de Elisabeth Guggenberger</span>. <span class="title"><em>Imagen de Elisabeth Guggenberger en Pixabay</em></span> <span class="license"><span class="sep">(</span><span class="custom-license">Dominio público</span><span class="sep">)</span></span></figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777906393514-idmqqrjmt","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola de nuevo!</p>\n<p>Uno de los aspectos más importantes para conseguir el mejor resultado posible es conocer los instrumentos de evaluación con los que vamos a ser calificados.</p>\n<p>Para ello, en este primer enlace podéis encontrar la <span style=\"text-decoration: underline;\"><strong>rúbrica de evaluación acerca de los videotutoriales saludables</strong></span> con todos los apartados que se van a tener en cuenta (columna de la izquierda) y sus respectivos niveles de logro. ¡Trata de conseguir la máxima puntuación posible!</p>\n<p><a href=\"https://docs.google.com/document/d/1ZRZmaW1_447bdWgQJTcQg6eF-lwcnWnShzow2SCGe8c/edit?usp=sharing\" title=\"\">Accede aquí a la rúbrica sobre nuestros videotutoriales</a></p>\n<p>Por último, en este segundo enlace vais a encontrar la<span style=\"text-decoration: underline;\"><strong> lista de cotejo para completar con éxito nuestra gymkhana alimenticia</strong></span> utilizando los códigos QR y las tablets (mejorando nuestra competencia digital).</p>\n<p>¿Conseguirás todos los \"check\" posibles? Ánimo y a trabajar como sabemos.</p>\n<p><a href=\"https://docs.google.com/document/d/1vNTWQxYZegy3cNrUbumF8FoVSUKUMEr27bsP9CDpJ98/edit?usp=sharing\" title=\"\">Accede a nuestra lista de cotejo pinchando aquí</a></p>\n<figure class=\"exe-figure position-center\" style=\"width: 1280px;\"><img src=\"{{context_path}}/content/resources/guggenberger_el-hook-1425312.svg\" width=\"1280\" height=\"1224\" alt=\"\" />\n<figcaption class=\"figcaption\"><span class=\"author\">Foto de Elisabeth Guggenberger</span>. <span class=\"title\"><em>Imagen de Elisabeth Guggenberger en Pixabay</em></span> <span class=\"license\"><span class=\"sep\">(</span><span class=\"custom-license\">Dominio público</span><span class=\"sep\">)</span></span></figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morg5t87-e9jtikj39</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morg5t87-e9jtikj39</odePageId>
+      <odeBlockId>block-1777914244448-ycugopv5a</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morg5t87-e9jtikj39</odePageId>
+          <odeBlockId>block-1777914244448-ycugopv5a</odeBlockId>
+          <odeIdeviceId>idevice-1777914244446-u9hvcgm7a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>El siguiente enlace te permite acceder al documento que relaciona las tareas con las competencias específicas, los criterios de evaluación y una serie de observaciones que sirvan de ayuda para los demás docentes.</p>
+<p>En este sentido, este documento es bastante similar al del apartado "asociamos las tareas a criterios" pero incluyendo otros elementos como las competencias específicas.</p>
+<p><a href="https://docs.google.com/document/d/1yZdHmDecQapVnBfeE5WM7xdWbWhKw_HzmDlPsy-WWgk/edit?usp=sharing" title="">Enlace a la guía didáctica</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1777914244446-u9hvcgm7a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>El siguiente enlace te permite acceder al documento que relaciona las tareas con las competencias específicas, los criterios de evaluación y una serie de observaciones que sirvan de ayuda para los demás docentes.</p>\n<p>En este sentido, este documento es bastante similar al del apartado \"asociamos las tareas a criterios\" pero incluyendo otros elementos como las competencias específicas.</p>\n<p><a href=\"https://docs.google.com/document/d/1yZdHmDecQapVnBfeE5WM7xdWbWhKw_HzmDlPsy-WWgk/edit?usp=sharing\" title=\"\">Enlace a la guía didáctica</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-morg5t87-qm6wkk8o0</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Página final (créditos)</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página final (créditos)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Página final (créditos)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Página final (créditos)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-morg5t87-qm6wkk8o0</odePageId>
+      <odeBlockId>block-1777903314392-5djvnkpk1</odeBlockId>
+      <blockName>Autoría, licencia y descarga</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-morg5t87-qm6wkk8o0</odePageId>
+          <odeBlockId>block-1777903314392-5djvnkpk1</odeBlockId>
+          <odeIdeviceId>idevice-1777903314391-fr9so398x</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">Los "influencers" saludables</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">Producto final del curso de Competencia Digital Docente (nivel B2)</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Pablo Rodríguez Serrano</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
